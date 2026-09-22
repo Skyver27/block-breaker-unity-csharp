@@ -2,20 +2,6 @@
 
 A small 2D Block Breaker game built with Unity and C# as part of my game development training.
 
-## Screenshots
-
-### Main Menu
-
-![Block Breaker main menu](docs/screenshots/main-menu.jpg)
-
-### Game Scene
-
-![Block Breaker game scene](docs/screenshots/game-scene.jpg)
-
-### Game Over Screen
-
-![Block Breaker game over screen](docs/screenshots/game-over.jpg)
-
 ## Features
 
 - Mouse-controlled paddle movement
@@ -42,6 +28,21 @@ This project helped me practice:
 - Collision detection
 - Debugging
 - Working with prefabs and game objects
+
+## Screenshots
+
+### Main Menu
+
+![Block Breaker main menu](docs/screenshots/main-menu.jpg)
+
+### Game Scene
+
+![Block Breaker game scene](docs/screenshots/game-scene.jpg)
+
+### Game Over Screen
+
+![Block Breaker game over screen](docs/screenshots/game-over.jpg)
+
 
 ## Project Background
 
